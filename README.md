@@ -23,9 +23,5 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohitkumar&show_icons=true&theme=vision-friendly-dark&layout=compact" alt="sohitkumar" />
     <img src="https://github-readme-stats.vercel.app/api?username=sohitkumar&show_icons=true&theme=vision-friendly-dark" alt="sohitkumar" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohitkumar&theme=dark" alt="sohitkumar" />
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sohitkumar&theme=github" alt="Sohit's GitHub Activity Graph" />
-</div>
