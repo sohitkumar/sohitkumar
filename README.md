@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohitdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sohitdeveloper" /> </p>
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **GENAI & DATA**
 
 - 👨‍💻 Portfolio [https://sohit-kumar.vercel.app/](https://sohit-kumar.vercel.app/)
 
